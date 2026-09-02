@@ -4,7 +4,7 @@ Track how close your GitHub repositories are to the **Starstruck** achievement.
 
 GitHub awards Starstruck when a repository you created reaches 16 stars, and upgrades the badge at 128, 512 and 4,096. This tool reads any public profile and shows the exact star gap for every repository you own.
 
-**[Live demo →](https://tejas164321.github.io/starstruck-tracker/)**
+**[Live demo →](https://tejas164321.github.io/trackerstarstruck-tracker//)**
 
 
 ## Features
