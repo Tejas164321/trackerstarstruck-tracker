@@ -154,8 +154,10 @@
     var percent = Math.min(100, (stars / goal) * 100);
 
     var status = earned
-      ? 'Starstruck earned. ' + formatNumber(goal - stars) + ' more ' +
-        plural(goal - stars, 'star') + ' for ' + target.label + '.'
+      ? (target
+          ? 'Starstruck earned. ' + formatNumber(goal - stars) + ' more ' +
+            plural(goal - stars, 'star') + ' for ' + target.label + '.'
+          : 'Every Starstruck tier is unlocked.')
       : (16 - stars) + ' more ' + plural(16 - stars, 'star') + ' to earn Starstruck.';
 
     var meta = [];
