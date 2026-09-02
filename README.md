@@ -6,6 +6,7 @@ GitHub awards Starstruck when a repository you created reaches 16 stars, and upg
 
 **[Live demo →](https://tejas164321.github.io/trackerstarstruck-tracker//)**
 
+`![Screenshot](docs/screenshot.png)` 
 
 ## Features
 
